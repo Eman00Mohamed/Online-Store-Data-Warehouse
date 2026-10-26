@@ -121,9 +121,7 @@ Total completed revenue: **56,250**. Top product: **Laptop (30,000)**.
 
 | Control Flow | FactSales Data Flow |
 | --- | --- |
-| ![Control Flow](docs/screenshots/01_ControlFlow_Success.jpeg) | ![FactSales](docs/screenshots/05_DFT_FactSales.jpeg) |
-
-![Validation](docs/screenshots/06_Validation_PASS.jpeg)
+| ![Control Flow](docs/screenshots/01_ControlFlow_Success.jpeg) | ![FactSales](docs/screenshots/05_DFT_FactSales.jpeg) |![Validation](docs/screenshots/06_Validation_PASS.jpeg)
 
 ## Tech stack
 
